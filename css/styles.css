@@ -259,7 +259,7 @@ img {
   margin-bottom: 72px;
   margin-right: auto;
   margin-left: auto;
-  min-width: 216px;
+  max-width: 216px;
 }
 
 .main-btn {

@@ -591,6 +591,8 @@ margin-bottom: 72px;
 
 .footer-logo-end {
   margin-bottom: 16px;
+  display: block;
+  text-align: center;
 }
 
 .footer-container-icons {
